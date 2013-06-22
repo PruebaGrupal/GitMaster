@@ -16,9 +16,7 @@ public class Prueba1Master {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        /// ACTUALIZADO POR EL MASTER, PARA LA RAMA "MASTER"
-        //ACTUALIZADO POR EL MASTER, DESDE LA CONSOLA
-     //PRUEBA SI SE AENXO A LA RAMA UTILITARIOS
+      
         
     
     }
