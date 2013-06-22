@@ -17,5 +17,6 @@ public class Prueba1Master {
         // TODO code application logic here
         
         /// ACTUALIZADO POR EL MASTER, PARA LA RAMA "MASTER"
+        //ACTUALIZADO POR EL MASTER, DESDE LA CONSOLA
     }
 }
